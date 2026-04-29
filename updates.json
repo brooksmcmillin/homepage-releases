@@ -1,0 +1,94 @@
+{
+  "addons": {
+    "homepage@brooksmcmillin.com": {
+      "updates": [
+        {
+          "version": "1.0.0",
+          "update_link": "https://github.com/brooksmcmillin/homepage/releases/download/v1.0.0/homepage-1.0.0.xpi",
+          "update_hash": "sha256:a967199dcea992a78b3fa9ba95d2eeee73172d11401ac88ebf3af3eb1b573c8b"
+        },
+        {
+          "version": "1.1.0",
+          "update_link": "https://github.com/brooksmcmillin/homepage/releases/download/v1.1.0/homepage-1.1.0.xpi",
+          "update_hash": "sha256:39d649d7cc8a35855b8fb8078456f17213abf8b2cab9b7b60e7199cc68edf0e7"
+        },
+        {
+          "version": "1.1.1",
+          "update_link": "https://github.com/brooksmcmillin/homepage/releases/download/v1.1.1/homepage-1.1.1.xpi"
+        },
+        {
+          "version": "1.2.0",
+          "update_link": "https://github.com/brooksmcmillin/homepage/releases/download/v1.2.0/homepage-1.2.0.xpi"
+        },
+        {
+          "version": "1.2.0",
+          "update_link": "https://github.com/brooksmcmillin/homepage/releases/download/v1.2.0/homepage-1.2.0.xpi",
+          "update_hash": "sha256:aca9e2da2cbd4810441105ce8addb31ffb0f71b5a1e2b7ec6a2e53ff0b5886ee"
+        },
+        {
+          "version": "1.2.1",
+          "update_link": "https://github.com/brooksmcmillin/homepage/releases/download/v1.2.0/homepage-1.2.1.xpi"
+        },
+        {
+          "version": "1.2.1",
+          "update_link": "https://github.com/brooksmcmillin/homepage/releases/download/v1.2.1/homepage-1.2.1.xpi",
+          "update_hash": "sha256:7b4ae1e1a641fe7f158bea7afccc24c736596ddcbf2074d5e9b8ed5391ae939c"
+        },
+        {
+          "version": "1.3.0",
+          "update_link": "https://github.com/brooksmcmillin/homepage/releases/download/v1.3.0/homepage-1.3.0.xpi"
+        },
+        {
+          "version": "1.3.0",
+          "update_link": "https://github.com/brooksmcmillin/homepage/releases/download/v1.3.0/homepage-1.3.0.xpi",
+          "update_hash": "sha256:af2189c082fd7a43c1637019a0f41b2ce804002f389fb546c8adc45d50289e90"
+        },
+        {
+          "version": "1.4.0",
+          "update_link": "https://github.com/brooksmcmillin/homepage/releases/download/v1.4.0/homepage-1.4.0.xpi"
+        },
+        {
+          "version": "1.4.0",
+          "update_link": "https://github.com/brooksmcmillin/homepage/releases/download/v1.4.0/homepage-1.4.0.xpi",
+          "update_hash": "sha256:86ba29798a7627f9f6afcffc9cf3bb1f516f497b3be02dc13df4daf6e386dfd4"
+        },
+        {
+          "version": "1.5.0",
+          "update_link": "https://github.com/brooksmcmillin/homepage/releases/download/v1.5.0/homepage-1.5.0.xpi"
+        },
+        {
+          "version": "1.5.0",
+          "update_link": "https://github.com/brooksmcmillin/homepage/releases/download/v1.5.0/homepage-1.5.0.xpi",
+          "update_hash": "sha256:e6dde03657909ae846c9fe0f50025416d5e4846910d64ec6868784b6bab86cd9"
+        },
+        {
+          "version": "1.6.0",
+          "update_link": "https://github.com/brooksmcmillin/homepage/releases/download/v1.6.0/homepage-1.6.0.xpi"
+        },
+        {
+          "version": "1.6.0",
+          "update_link": "https://github.com/brooksmcmillin/homepage/releases/download/v1.6.0/homepage-1.6.0.xpi",
+          "update_hash": "sha256:0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+        },
+        {
+          "version": "1.6.1",
+          "update_link": "https://github.com/brooksmcmillin/homepage/releases/download/v1.6.1/homepage-1.6.1.xpi"
+        },
+        {
+          "version": "1.6.1",
+          "update_link": "https://github.com/brooksmcmillin/homepage/releases/download/v1.6.1/homepage-1.6.1.xpi",
+          "update_hash": "sha256:1dc75fc331f911afe921445c2281bfe65cf266e883f09d4c734590e21bbbd0df"
+        },
+        {
+          "version": "1.7.0",
+          "update_link": "https://github.com/brooksmcmillin/homepage/releases/download/v1.7.0/homepage-1.7.0.xpi"
+        },
+        {
+          "version": "1.7.0",
+          "update_link": "https://github.com/brooksmcmillin/homepage/releases/download/v1.7.0/homepage-1.7.0.xpi",
+          "update_hash": "sha256:40af72dcf65982ed0ff154c69a43519f6db066912fcb76adc9eeb2f1c05c009b"
+        }
+      ]
+    }
+  }
+}
